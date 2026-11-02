@@ -37,6 +37,14 @@ ShopEase/
    npm run dev
    ```
    App runs at http://localhost:5173
+   
+## 🌐 Live Demo
+
+**ShopEase – Online Shopping Platform**
+
+🚀 **Live Website:** [https://shopease-store-aniket.vercel.app/](https://shopease-store-aniket.vercel.app/)
+
+Explore the live application and experience the shopping features.
 
 ## Default admin login
 - Email: admin@shopease.com
