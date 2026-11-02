@@ -80,7 +80,7 @@ public class SecurityConfig {
 
         cfg.setAllowedOrigins(List.of(
             "http://localhost:5173",
-            "https://shopease-ten-snowy.vercel.app"
+            "https://shopease-store-aniket.vercel.app"
         ));
 
         cfg.setAllowedMethods(List.of(
